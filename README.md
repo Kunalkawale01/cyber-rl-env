@@ -1,4 +1,4 @@
-# 🛡️ Cyber RL Defense System (Meta x PyTorch Hackathon)
+# 🛡️ Cyber RL Defense System (Simulation)
 
 ## Overview
 
