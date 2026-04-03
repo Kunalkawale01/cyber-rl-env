@@ -102,9 +102,8 @@ MIT License
 ## Folder Structure
 ```
 cyber-rl-insane/
-│
+│── app.py
 ├── 📁 backend/
-│   ├── app.py
 │   ├── rl_agent.py
 │   ├── environment.py
 │   ├── utils.py
